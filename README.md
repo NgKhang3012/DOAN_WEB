@@ -1,4 +1,4 @@
-# Đồ án Lập trình Ứng dụng Web - Nhóm 6
+# Đồ án Lập trình Ứng dụng Web - Nhóm 4
 ## Danh sách thành viên
 - Hồ Hoàng Diệp - 22520249
 - Nguyễn Đặng Nguyên Khang - 22520617
